@@ -1,5 +1,5 @@
 ---
-title: Writing Goals and Principles
+title: TEST BIG BOY
 layout: article
 ---
 
